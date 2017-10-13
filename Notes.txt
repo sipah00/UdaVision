@@ -1,0 +1,5 @@
+>>> multiplying a bunch of random numbers generated from a Gaussian or Normal distribution changes their effective standard deviation, i.e. how far apart the values are spread.
+
+>>> When filtering, sigma is most imp - it defines the blur kernel's scale with respect to the img not kernel's size & Altering the normalization coefficient does not effect the blur, only the brightness.
+
+>>>
