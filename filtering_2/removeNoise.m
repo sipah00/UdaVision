@@ -1,5 +1,5 @@
 % Apply a Gaussian filter to remove noise
-img = imread('saturn.png');
+img = imread('lena.jpg');
 imshow(img);
 
 % TODO: Add noise to the image
